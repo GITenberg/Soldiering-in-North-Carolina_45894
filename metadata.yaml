@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43516'
     url: http://www.gutenberg.org/2009/agents/43516
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45894#Soldiering-in-North-Carolina
 gutenberg_issued: '2014-06-06'
 gutenberg_type: Text
 identifiers:
