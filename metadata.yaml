@@ -1,0 +1,35 @@
+_repo: Soldiering-in-North-Carolina_45894
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45894-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Kirwan, Thomas
+    birthdate: 1829
+    deathdate: 1911
+    gutenberg_agent_id: '43516'
+    url: http://www.gutenberg.org/2009/agents/43516
+description: ''
+gutenberg_issued: '2014-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45894'
+  lccn: 09001957
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Massachusetts Infantry -- 17th'
+- !lcc 'E456'
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 17th (1861-1865)'
+title: "Soldiering in North Carolina\r\nBeing the experiences of a 'typo' in the pines,\
+  \ swamps, fields, sandy roads, towns, cities, and among the fleas, wood-ticks, 'gray-backs,'\
+  \ mosquitoes, blue-tail flies, moccasin snakes, lizards, scorpions, rebels, and\
+  \ other reptiles, pests, and vermin of the 'Old North State.' Embracing an account\
+  \ of the three-years and nine-months Massachusetts regiments in the department,\
+  \ the freedmen, etc., etc., etc."
+url: http://www.gutenberg.org/ebooks/45894
